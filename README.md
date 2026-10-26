@@ -1,4 +1,4 @@
-# AquaSun-AI# AquaSun AI
+# AquaSun-AI
 
 ### Production intelligente d'eau potable à partir de l'humidité de l'air grâce à l'énergie solaire et à l'intelligence artificielle
 
